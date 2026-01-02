@@ -2,7 +2,7 @@
 
 Este projeto demonstra um pipeline de ETL (Extract, Transform, Load) desenvolvido durante a Santander Dev Week. O objetivo original era consumir uma API de um banco fictício, transformar os dados usando Inteligência Artificial e carregar os dados de volta. Devido à indisponibilidade da API original, o projeto foi adaptado para utilizar arquivos locais, mantendo toda a lógica de processamento de dados.
 
-#🚀 O Projeto
+# 🚀 O Projeto
 
 O fluxo consiste em:
 
@@ -22,6 +22,6 @@ OpenAI API: Para a geração de conteúdo via Inteligência Artificial (Generati
 
 JSON/CSV: Como fontes e destinos de dados.
 
-#🤖 Integração com IA (OpenAI)
+# 🤖 Integração com IA (OpenAI)
 
 Para utilizar a funcionalidade de geração de mensagens personalizadas, é necessário possuir uma chave de API da OpenAI.
